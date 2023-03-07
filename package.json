@@ -1,0 +1,16 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Repositorio de practica de curso asincronismo de platzi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "platzi"
+  ],
+  "author": "Kevin Alvarenga kevin.alvarenga93@gmail.com",
+  "license": "MIT"
+}
